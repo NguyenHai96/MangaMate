@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:manga_mate/model/choice_button.dart';
 import 'package:manga_mate/value/app_styles.dart';
