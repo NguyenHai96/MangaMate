@@ -8,6 +8,7 @@ class AppAssets {
   static final String imagePath = 'assets/images/';
   static final String leftArrow = imagePath + 'left_arrow.png';
   static final String rightArrow = imagePath + 'right_arrow.png';
+  static final String menu = imagePath + 'menu.png';
   static final String luffy = imagePath + 'luffy.png';
   static final String subtract = imagePath + 'subtract.png';
   static final String chat = imagePath + 'chat.png';
